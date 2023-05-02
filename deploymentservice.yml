@@ -15,7 +15,7 @@ spec:
         app: facebooc 
     spec:
       containers:
-      - name: facebrook
+      - name: facebooc
         image: fdjapi10/facebooc:main
         ports:
         - containerPort: 16000
